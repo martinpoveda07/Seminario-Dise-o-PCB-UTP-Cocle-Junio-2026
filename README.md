@@ -1,1 +1,1 @@
-# Seminario-Dise-o-PCB-UTP-Cocle-Junio-2026
+# Seminario Diseño de PCB UTP Cocle Junio 2026
